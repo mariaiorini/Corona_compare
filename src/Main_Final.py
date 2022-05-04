@@ -77,3 +77,4 @@ for i in gene_name:
 f.tight_layout()
 # Saving the matplotlib subplot as a jpg.
 f.savefig('Sars_Cov-2_Gene_Mutation.jpg')
+print()
